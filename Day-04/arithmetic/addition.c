@@ -8,5 +8,4 @@ void main() {
 
     int add = x + y;
     printf("Sum is: %d \n", add);
-
 }
